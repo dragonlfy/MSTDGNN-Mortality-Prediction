@@ -22,12 +22,10 @@ python run.py
 > To execute the ensemble algorithm, use:
 ```
 python run_ensemble.py
-
 ```
 > To calculate SAPS II scores, run
 ```
 python run_score.py
-
 ```
 > To run machine learning models, use:
 ```
