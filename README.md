@@ -42,4 +42,4 @@ We appreciate the following GitHub repos a lot for their valuable code and effor
 
 If you have any questions or want to use the code, feel free to contact:
 
-* Yong Liu (lf.liu@siat.ac.cn)
+* Longfei Liu (lf.liu@siat.ac.cn)
